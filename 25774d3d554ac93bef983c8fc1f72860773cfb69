@@ -75,6 +75,30 @@
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b32aa070_5f5f0620",
+        "filename": "openstack-watcher-ui.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2024-10-16T06:57:33Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fd00ffcd_d38e0fb2",
+      "range": {
+        "startLine": 1,
+        "startChar": 46,
+        "endLine": 1,
+        "endChar": 47
+      },
+      "revId": "25774d3d554ac93bef983c8fc1f72860773cfb69",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "23650f9e_e461ec0f",
@@ -88,6 +112,30 @@
       "writtenOn": "2024-10-15T13:36:47Z",
       "side": 1,
       "message": "0x22284f69d9eccdf3df7819791c711af193ff8e54",
+      "range": {
+        "startLine": 2,
+        "startChar": 25,
+        "endLine": 2,
+        "endChar": 67
+      },
+      "revId": "25774d3d554ac93bef983c8fc1f72860773cfb69",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d1bf1735_f23aa104",
+        "filename": "openstack-watcher-ui.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2024-10-16T06:57:33Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "23650f9e_e461ec0f",
       "range": {
         "startLine": 2,
         "startChar": 25,
@@ -135,6 +183,30 @@
       "side": 1,
       "message": "Actually, i think it\u0027s just apache-2.0 and cc-by-3.0 as MIT only appears as licence for two test requirements which are not part of the package, iiuc:\n\nhttps://github.com/openstack/watcher-dashboard/blob/master/test-requirements.txt#L11",
       "parentUuid": "f1d322c4_af30e130",
+      "range": {
+        "startLine": 22,
+        "startChar": 16,
+        "endLine": 22,
+        "endChar": 26
+      },
+      "revId": "25774d3d554ac93bef983c8fc1f72860773cfb69",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9b8e3965_28272257",
+        "filename": "openstack-watcher-ui.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 635
+      },
+      "writtenOn": "2024-10-16T06:57:33Z",
+      "side": 1,
+      "message": "Ah right 👍 so only Apache-2.0 and CC-BY-3.0",
+      "parentUuid": "667b0f8b_50ee3577",
       "range": {
         "startLine": 22,
         "startChar": 16,
