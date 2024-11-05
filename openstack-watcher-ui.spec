@@ -123,3 +123,4 @@ install -p -D -m 644 watcher_dashboard/local/enabled/_31* %{buildroot}%{_datadir
 %endif
 
 %changelog
+
