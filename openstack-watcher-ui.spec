@@ -125,3 +125,4 @@ install -p -D -m 644 watcher_dashboard/local/enabled/_31* %{buildroot}%{_datadir
 %endif
 
 %changelog
+# REMOVEME: error caused by commit https://opendev.org/openstack/watcher-dashboard/commit/4a0f64b5cbd48af7c44788e0f86e313a6e7865a5
